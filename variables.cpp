@@ -1,6 +1,8 @@
 #include <iostream>
 
 int main() {
+    // Variable is a box to store data
+
     /* 
         There are two ways to create a variable:
         1) Declare the variable and assing a value later. 
