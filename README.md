@@ -15,3 +15,6 @@ The goal of this repository is:
 - Type conversion
 - User input
 - Useful math related functions
+- if ... else ... statement
+- switch
+- Ternary operator
