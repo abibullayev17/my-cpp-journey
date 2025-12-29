@@ -13,3 +13,4 @@ The goal of this repository is:
 - Typedef
 - Arithmetic operators
 - Type conversion
+- User input
