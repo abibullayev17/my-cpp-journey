@@ -12,3 +12,4 @@ The goal of this repository is:
 - Namespace
 - Typedef
 - Arithmetic operators
+- Type conversion
