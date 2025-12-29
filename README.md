@@ -9,3 +9,6 @@ The goal of this repository is:
 
 ## 🧠 Topics Covered
 - Variables and data types
+- Namespace
+- Typedef
+- Arithmetic operators
