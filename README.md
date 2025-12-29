@@ -14,3 +14,4 @@ The goal of this repository is:
 - Arithmetic operators
 - Type conversion
 - User input
+- Useful math related functions
