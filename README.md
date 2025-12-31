@@ -19,3 +19,4 @@ The goal of this repository is:
 - switch
 - Ternary operator
 - Logical operators
+- Useful string methods
