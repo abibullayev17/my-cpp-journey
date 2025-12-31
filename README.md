@@ -20,3 +20,4 @@ The goal of this repository is:
 - Ternary operator
 - Logical operators
 - Useful string methods
+- While loop
