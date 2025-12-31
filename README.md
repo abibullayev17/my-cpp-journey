@@ -21,3 +21,4 @@ The goal of this repository is:
 - Logical operators
 - Useful string methods
 - While loop
+- For loop
