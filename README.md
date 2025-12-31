@@ -18,3 +18,4 @@ The goal of this repository is:
 - if ... else ... statement
 - switch
 - Ternary operator
+- Logical operators
