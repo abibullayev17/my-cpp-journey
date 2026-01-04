@@ -25,3 +25,4 @@ The goal of this repository is:
 - Nested loops
 - Functions
 - Arrays
+- Iterating over an array
