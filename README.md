@@ -26,3 +26,4 @@ The goal of this repository is:
 - Functions
 - Arrays
 - Iterating over an array
+- Foreach loop
