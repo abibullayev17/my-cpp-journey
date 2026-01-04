@@ -23,3 +23,4 @@ The goal of this repository is:
 - While loop
 - For loop
 - Nested loops
+- Functions
