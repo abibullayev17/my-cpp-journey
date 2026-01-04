@@ -24,3 +24,4 @@ The goal of this repository is:
 - For loop
 - Nested loops
 - Functions
+- Arrays
