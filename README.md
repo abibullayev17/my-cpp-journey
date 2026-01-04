@@ -22,3 +22,4 @@ The goal of this repository is:
 - Useful string methods
 - While loop
 - For loop
+- Nested loops
