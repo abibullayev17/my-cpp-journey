@@ -27,3 +27,4 @@ The goal of this repository is:
 - Arrays
 - Iterating over an array
 - Foreach loop
+- Bubble sort
