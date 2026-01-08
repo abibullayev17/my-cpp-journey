@@ -29,3 +29,4 @@ The goal of this repository is:
 - Foreach loop
 - Bubble sort
 - Pointers
+- Nullptr
