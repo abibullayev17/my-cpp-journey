@@ -28,3 +28,4 @@ The goal of this repository is:
 - Iterating over an array
 - Foreach loop
 - Bubble sort
+- Pointers
