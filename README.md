@@ -30,3 +30,4 @@ The goal of this repository is:
 - Bubble sort
 - Pointers
 - Nullptr
+- Struct
